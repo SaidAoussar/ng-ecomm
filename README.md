@@ -21,6 +21,14 @@ e-commerce web application built with **Angular 19** and a mock backend using **
 | Angular 19   | JSON Server   | Tailwind CSS | Netlify / Railway |
 
 
+## 🌍 Deployment
+
+| Part      | URL                                                                 |
+|-----------|----------------------------------------------------------------------|
+| 🖥 Frontend | [https://ng-ecomm.vercel.app](https://ng-ecomm.vercel.app)         |
+| 🗃 Backend  | [https://ng-json-api-production.up.railway.app](https://ng-json-api-production.up.railway.app) |
+
+
 ### **Requirements**
 
 - NodeJS.
