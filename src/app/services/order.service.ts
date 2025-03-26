@@ -4,8 +4,7 @@ import { Observable } from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 
 
-//const API_URL = 'https://ng-json-api-production.up.railway.app/orders';
-const API_URL = "http://localhost:3000/orders";
+const API_URL = 'https://ng-json-api-production.up.railway.app/orders';
 
 
 

@@ -14,8 +14,7 @@ type PaginatedResponse<T> = {
 }
 
 
-//const API_URL = "https://ng-json-api-production.up.railway.app";
-const API_URL = "http://localhost:3000";
+const API_URL = "https://ng-json-api-production.up.railway.app";
 
 @Injectable({
   providedIn: 'root'
