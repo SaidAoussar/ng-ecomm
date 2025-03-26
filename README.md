@@ -32,7 +32,7 @@ To install and run this project on your local machine, please follow these steps
 1. Clone the repository:
 
 ```bash
-[https://github.com/SaidAoussar/ng-ecomm.git](https://github.com/SaidAoussar/ng-ecomm)
+git clone https://github.com/SaidAoussar/ng-ecomm.git
 ```
 
 2. Navigate to the project directory:
